@@ -1,0 +1,8 @@
+{
+ "name": "MFOBOT",
+  "version": "1.0.0",
+  "description": "BOT DO MFO",
+  "main": "bot.js",
+  "author": "COOKIEE",
+  "dependencies": {}
+}
